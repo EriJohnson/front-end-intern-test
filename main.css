@@ -16,6 +16,7 @@ header {
 body {
     padding: 0px;
     margin: 0px;
+    background-image: url('./assets/04-BG.png');
 }
 
 h1 {

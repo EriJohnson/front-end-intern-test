@@ -13,6 +13,11 @@ header {
     display: flex;
 }
 
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
 h1 {
     font-family: 'Cookie', cursive;
     font-size: 71px;

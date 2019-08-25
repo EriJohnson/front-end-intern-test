@@ -22,7 +22,9 @@ body {
 h1 {
     font-family: 'Cookie', cursive;
     font-size: 71px;
-    color: purple;
+    color:#E3EECD;
+    font-weight: normal;
+    text-align: center;
+    margin: 105px 48px;
 }
-
 

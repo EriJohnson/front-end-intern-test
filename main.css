@@ -32,6 +32,7 @@ h1 {
 
 div.formulario {
     margin-top: -15px;
+    margin-bottom: 50px;
     display: flex;
     justify-content: center;
 }
